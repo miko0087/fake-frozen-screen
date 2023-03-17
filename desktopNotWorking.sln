@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktopNotWorking", "desktopNotWorking\desktopNotWorking.csproj", "{3BF6773C-CBB8-4FC8-B5DC-CEFDD5A0928F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF6773C-CBB8-4FC8-B5DC-CEFDD5A0928F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF6773C-CBB8-4FC8-B5DC-CEFDD5A0928F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF6773C-CBB8-4FC8-B5DC-CEFDD5A0928F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF6773C-CBB8-4FC8-B5DC-CEFDD5A0928F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA6D711D-6B81-4DA1-9F8A-D8DAF6BA1A78}
+	EndGlobalSection
+EndGlobal
